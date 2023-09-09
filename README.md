@@ -4,7 +4,7 @@ Steps to run the Model :
 1) Setup Environment: Ensure you have a suitable Python environment with all the required libraries and dependencies installed. (Take reference from code)
 2) Prepare Custom Voice Data: Before running the model, you need to have the custom voice data available (audio must be in  WAV format and in chunks of 10 secs ).
    Ensure that you have the voice data files ready and organized.
-   [link to split the audio: https://products.aspose.app/audio/splitter}
+   [link to split the audio: https://products.aspose.app/audio/splitter]
 3) Specify Text Input
 4) Run the Model (Google Collab is preferred)
 
